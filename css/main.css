@@ -52,23 +52,26 @@ footer {
 /* Change the background colors below */
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: darkblue;
   }
 
   #column-1 {
     background-color: lightblue;
+    width: 50%;
   }
 
   #column-2 {
     background-color: orange;
+    width: 50%;
   }
 
   #column-3 {
     background-color: pink;
+    width: 50%;
   }
 
   footer {
-    background-color: ;
+    background-color: purple;
   }
 }
 
@@ -80,14 +83,17 @@ footer {
 
   #column-1 {
     background-color: black;
+    width: 33%;
   }
 
   #column-2 {
     background-color: red;
+    width: 33%;
   }
 
   #column-3 {
     background-color: silver;
+    width: 33%;
   }
 
   footer {
